@@ -1,0 +1,6 @@
+{
+  "name": "Bazaar",
+  "description": "Bazaar is a premium e-commerce shopping app featuring product discovery, flash sales, order tracking, and seamless checkout in PKR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
